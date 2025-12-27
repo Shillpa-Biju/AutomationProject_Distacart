@@ -7,7 +7,7 @@ import utilies.Excelutilies;
 
 public class Distatestcls extends Basecls {
 	
-	@Test(priority=1)
+	@Test
 	public void hpop() throws Exception 
 	{
 		
